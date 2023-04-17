@@ -1,4 +1,4 @@
-This directory contains some source code for the Rust project, including:
+This directory contains some source code for the Crab project, including:
 
 - The bootstrapping build system
 - Various submodules for tools, like cargo, tidy, etc.
